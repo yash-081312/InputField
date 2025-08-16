@@ -2,7 +2,7 @@
 
 A modern React component library built with TypeScript, TailwindCSS, and Storybook. This library provides flexible, accessible, and customizable UI components for React applications.
 
-![Image Alt]()
+![Image Alt](https://github.com/yash-081312/InputField/blob/main/Screenshot%202025-08-17%20003956.png?raw=true)
 ## 🚀 Features
 
 - **TypeScript**: Full type safety and IntelliSense support
@@ -227,4 +227,5 @@ MIT License - see LICENSE file for details.
 ## 🆘 Support
 
 For questions and support, please open an issue on GitHub.
+
 
