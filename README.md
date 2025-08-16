@@ -12,7 +12,7 @@ A modern React component library built with TypeScript, TailwindCSS, and Storybo
 - **Dark Mode**: Built-in support for light and dark themes
 - **Responsive**: Mobile-first design approach
 - **Customizable**: Extensive theming and variant options
-     ![Image Alt](https://github.com/yash081312/InputField/blob/c803ecf5a2004fc43a0659775977b8c5f951da76/Screenshot%202025-08-17%20004010.png)
+     ![Image Alt](https://github.com/yash-081312/InputField/blob/main/Screenshot%202025-08-17%20004010.png?raw=true)
 ## 📦 Installation
 
 ```bash
@@ -227,6 +227,7 @@ MIT License - see LICENSE file for details.
 ## 🆘 Support
 
 For questions and support, please open an issue on GitHub.
+
 
 
 
