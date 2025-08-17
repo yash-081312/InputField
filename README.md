@@ -13,6 +13,11 @@ A modern React component library built with TypeScript, TailwindCSS, and Storybo
 - **Responsive**: Mobile-first design approach
 - **Customizable**: Extensive theming and variant options
      ![Image Alt](https://github.com/yash-081312/InputField/blob/main/Screenshot%202025-08-17%20004010.png?raw=true)
+
+##StoryBookPreviewlink
+https://68a2012080cc2393aa2efad2-tqghcomcrn.chromatic.com/?path=/docs/components-inputfield--docs
+
+
 ## 📦 Installation
 
 ```bash
@@ -227,6 +232,7 @@ MIT License - see LICENSE file for details.
 ## 🆘 Support
 
 For questions and support, please open an issue on GitHub.
+
 
 
 
